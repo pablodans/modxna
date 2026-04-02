@@ -8,6 +8,8 @@ Requirements:<br>
 – Make sure you have the latest AmberTools installed.<br>
 – Make sure you have the latest version of CPPTRAJ installed.<br>
 
+See https://modxna.chpc.utah.edu/ for more details.
+
 Learn more: <br>
 https://pubs.acs.org/doi/10.1021/acs.jctc.4c01164<br>
 https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e4545<br>
